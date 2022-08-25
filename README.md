@@ -16,7 +16,7 @@
 
 
 
-# Project 1  - Restaurant Web Page
+# Project 2  - Restaurant Web Page
 
 # Project Details 
 
